@@ -1,7 +1,7 @@
 # Bandit Level 0 → Level 1
 
 ## Task
-SSH se server me login karna hai.
+Login SSH server.
 
 ## Command
 
